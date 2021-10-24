@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'sheek_it_bogo_31676.settings')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "sheek_it_bogo_31676.settings")
 
 application = get_wsgi_application()
